@@ -1,2 +1,2 @@
 # SimpleWebAPI
-A Simple WebAPI with OAuth Authentication, Routes and a HttpRequest manipulator.
+A Simple ASP.Net WebAPI with OAuth Authentication, Routes and a HttpRequest manipulator.
