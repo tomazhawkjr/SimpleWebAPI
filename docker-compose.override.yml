@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  simplewebapi:
+    ports:
+      - "80"
+networks:
+  default:
+    external:
+      name: nat

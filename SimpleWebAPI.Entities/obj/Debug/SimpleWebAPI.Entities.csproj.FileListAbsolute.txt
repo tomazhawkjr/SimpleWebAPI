@@ -1,0 +1,6 @@
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Entities\bin\Debug\SimpleWebAPI.Entities.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Entities\bin\Debug\SimpleWebAPI.Entities.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Entities\obj\Debug\SimpleWebAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Entities\obj\Debug\SimpleWebAPI.Entities.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Entities\obj\Debug\SimpleWebAPI.Entities.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Entities\obj\Debug\SimpleWebAPI.Entities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\bin\Debug\SimpleWebAPI.DB.dacpac
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\bin\Debug\SimpleWebAPI.DB.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\bin\Debug\SimpleWebAPI.DB.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\obj\Debug\Model.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\obj\Debug\refactor.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\obj\Debug\postdeploy.sql
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\obj\Debug\predeploy.sql
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\obj\Debug\SimpleWebAPI.DB.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DB\obj\Debug\SimpleWebAPI.DB.pdb

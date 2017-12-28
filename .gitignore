@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/SimpleWebAPI/v15
+/DataBase/DataBase.dbmdl
+/SimpleWebAPI.DB/SimpleWebAPI.DB.dbmdl
+/SimpleWebAPI.DB/SimpleWebAPI.DB.jfm

@@ -1,0 +1,6 @@
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\SimpleWebAPI.DAL.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\SimpleWebAPI.DAL.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.csprojResolveAssemblyReference.cache
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.pdb
