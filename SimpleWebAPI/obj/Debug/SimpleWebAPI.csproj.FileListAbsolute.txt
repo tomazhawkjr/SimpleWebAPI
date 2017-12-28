@@ -86,3 +86,6 @@ C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\obj\Debug\SimpleWebAPI
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\bin\System.Web.Cors.dll
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\bin\System.Web.Http.Cors.dll
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\bin\SimpleWebAPI.DAL.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\bin\SimpleWebAPI.DAL.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI\bin\SimpleWebAPI.DAL.dll.config

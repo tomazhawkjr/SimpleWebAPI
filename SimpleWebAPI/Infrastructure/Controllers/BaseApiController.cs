@@ -43,7 +43,7 @@ namespace SimpleWebAPI.API.Infrastructure.Controllers
         protected ApplicationRoleManager RoleManager => _appRoleManager ?? HttpContext.Current.GetOwinContext().GetUserManager<ApplicationRoleManager>();
 
         [ResponseType(typeof(ServiceResponse))]
-        public IHttpActionResult Success(string message)
+        public ServiceHttpResult Success(string message)
         {
             return new ServiceHttpResult(new ServiceResponse
             {
@@ -55,7 +55,7 @@ namespace SimpleWebAPI.API.Infrastructure.Controllers
         }
 
         [ResponseType(typeof(ServiceResponse))]
-        public IHttpActionResult Success(string message, object data)
+        public ServiceHttpResult Success(string message, object data)
         {
             return new ServiceHttpResult(new ServiceResponse
             {
@@ -67,25 +67,25 @@ namespace SimpleWebAPI.API.Infrastructure.Controllers
         }
 
         [ResponseType(typeof(ServiceResponse))]
-        public IHttpActionResult Error(string message)
+        public ServiceHttpResult Error(string message)
         {
             return new ServiceHttpResult(new ServiceException(message), this);
         }
 
         [ResponseType(typeof(ServiceResponse))]
-        public IHttpActionResult Error(string message, Exception innerException)
+        public ServiceHttpResult Error(string message, Exception innerException)
         {
             return new ServiceHttpResult(new ServiceException(message, innerException), this);
         }
 
         [ResponseType(typeof(ServiceResponse))]
-        public IHttpActionResult Error(ServiceException exception)
+        public ServiceHttpResult Error(ServiceException exception)
         {
             return new ServiceHttpResult(exception, this);
         }
 
         [ResponseType(typeof(ServiceResponse))]
-        public IHttpActionResult Error(ModelStateDictionary modelState)
+        public ServiceHttpResult Error(ModelStateDictionary modelState)
         {
             return new ServiceHttpResult(modelState, this);
         }

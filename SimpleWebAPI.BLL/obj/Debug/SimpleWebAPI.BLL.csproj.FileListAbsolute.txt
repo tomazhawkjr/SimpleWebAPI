@@ -4,3 +4,12 @@ C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\obj\Debug\SimpleWe
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\obj\Debug\SimpleWebAPI.BLL.dll
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\obj\Debug\SimpleWebAPI.BLL.pdb
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\obj\Debug\SimpleWebAPI.BLL.csprojResolveAssemblyReference.cache
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\SimpleWebAPI.DAL.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\SimpleWebAPI.Entities.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\EntityFramework.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\SimpleWebAPI.DAL.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\SimpleWebAPI.DAL.dll.config
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\SimpleWebAPI.Entities.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\EntityFramework.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.BLL\bin\Debug\EntityFramework.SqlServer.xml

@@ -71,3 +71,17 @@ C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\pt-br\
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\obj\Debug\SimpleWebAPI.Tests.csprojResolveAssemblyReference.cache
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\obj\Debug\SimpleWebAPI.Tests.dll
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\obj\Debug\SimpleWebAPI.Tests.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.Entities.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.BLL.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.DAL.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.Entities.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.BLL.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.DAL.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\SimpleWebAPI.DAL.dll.config
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.xml
