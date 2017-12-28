@@ -10,6 +10,7 @@ using SimpleWebAPI.Controllers;
 using SimpleWebAPI.API.Infrastructure.Http;
 using System.Web.Http.Results;
 using SimpleWebAPI.Entities;
+using System.Net;
 
 namespace SimpleWebAPI.Tests.Controllers
 {
@@ -28,7 +29,7 @@ namespace SimpleWebAPI.Tests.Controllers
 
             // Declarar
             Assert.IsNotNull(result);
-            Assert.IsInstanceOfType(result, typeof(OkResult));
+            Assert.AreEqual(result.ServiceResponse.StatusCode, HttpStatusCode.OK);
             Assert.IsNotNull(result.ServiceResponse.Data);
             Assert.AreEqual(id, ((Values)result.ServiceResponse.Data).Id);
         }
@@ -45,9 +46,9 @@ namespace SimpleWebAPI.Tests.Controllers
 
             // Declarar
             Assert.IsNotNull(result);
-            Assert.IsInstanceOfType(result, typeof(OkResult));
+            Assert.AreEqual(result.ServiceResponse.StatusCode, HttpStatusCode.OK);
             Assert.IsNotNull(result.ServiceResponse.Data);
-            Assert.AreEqual(value, ((Values)result.ServiceResponse.Data).Value);
+            Assert.AreEqual(value, ((Values)result.ServiceResponse.Data).Value); 
         }
 
 
