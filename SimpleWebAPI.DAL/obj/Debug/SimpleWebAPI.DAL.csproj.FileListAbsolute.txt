@@ -4,3 +4,10 @@ C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWe
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.csproj.CoreCompileInputs.cache
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.dll
 C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\obj\Debug\SimpleWebAPI.DAL.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\SimpleWebAPI.DAL.dll.config
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\SimpleWebAPI.Entities.dll
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\SimpleWebAPI.Entities.pdb
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tomaz\Documents\GitHub\SimpleWebAPI\SimpleWebAPI.DAL\bin\Debug\EntityFramework.SqlServer.xml

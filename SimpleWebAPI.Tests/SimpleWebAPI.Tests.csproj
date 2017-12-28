@@ -109,6 +109,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SimpleWebAPI.Entities\SimpleWebAPI.Entities.csproj">
+      <Project>{48e93258-97c0-45c1-af84-fbe4c32d9f33}</Project>
+      <Name>SimpleWebAPI.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SimpleWebAPI\SimpleWebAPI.csproj">
       <Project>{F53069AB-B4A0-4FEB-A7D8-82BFA9D1AB43}</Project>
       <Name>SimpleWebAPI</Name>

@@ -7,6 +7,9 @@ using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SimpleWebAPI;
 using SimpleWebAPI.Controllers;
+using SimpleWebAPI.API.Infrastructure.Http;
+using System.Web.Http.Results;
+using SimpleWebAPI.Entities;
 
 namespace SimpleWebAPI.Tests.Controllers
 {
@@ -18,17 +21,35 @@ namespace SimpleWebAPI.Tests.Controllers
         {
             // Organizar
             ValuesController controller = new ValuesController();
+            int id = 1;
 
             // Agir
-            IEnumerable<string> result = controller.Get();
+            ServiceHttpResult result = controller.Get(id);
 
             // Declarar
             Assert.IsNotNull(result);
-            Assert.AreEqual(2, result.Count());
-            Assert.AreEqual("value1", result.ElementAt(0));
-            Assert.AreEqual("value2", result.ElementAt(1));
+            Assert.IsInstanceOfType(result, typeof(OkResult));
+            Assert.IsNotNull(result.ServiceResponse.Data);
+            Assert.AreEqual(id, ((Values)result.ServiceResponse.Data).Id);
         }
 
-      
+        [TestMethod]
+        public void Add()
+        {
+            // Organizar
+            ValuesController controller = new ValuesController();
+            string value = "Test";
+
+            // Agir
+            ServiceHttpResult result = controller.Add(value);
+
+            // Declarar
+            Assert.IsNotNull(result);
+            Assert.IsInstanceOfType(result, typeof(OkResult));
+            Assert.IsNotNull(result.ServiceResponse.Data);
+            Assert.AreEqual(value, ((Values)result.ServiceResponse.Data).Value);
+        }
+
+
     }
 }
